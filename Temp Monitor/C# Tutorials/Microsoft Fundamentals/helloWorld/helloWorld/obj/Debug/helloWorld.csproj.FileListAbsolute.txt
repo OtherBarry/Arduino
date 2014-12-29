@@ -1,0 +1,6 @@
+C:\Users\Charlie\Documents\Arduino\Temp Monitor\C# Tutorials\Microsoft Fundamentals\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+C:\Users\Charlie\Documents\Arduino\Temp Monitor\C# Tutorials\Microsoft Fundamentals\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+C:\Users\Charlie\Documents\Arduino\Temp Monitor\C# Tutorials\Microsoft Fundamentals\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+C:\Users\Charlie\Documents\Arduino\Temp Monitor\C# Tutorials\Microsoft Fundamentals\helloWorld\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Documents\Arduino\Temp Monitor\C# Tutorials\Microsoft Fundamentals\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+C:\Users\Charlie\Documents\Arduino\Temp Monitor\C# Tutorials\Microsoft Fundamentals\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
